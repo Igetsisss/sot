@@ -1,0 +1,37 @@
+{
+"music_disc.thelegendofzeldatearsofthekingdommaintheme": {
+    "sounds": [
+        {
+            "name": "records/thelegendofzeldatearsofthekingdommaintheme",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.thelegendofzeldabreathofthewildmaintheme": {
+    "sounds": [
+        {
+            "name": "records/thelegendofzeldabreathofthewildmaintheme",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.nevergonnagiveyouup": {
+    "sounds": [
+        {
+            "name": "records/nevergonnagiveyouup",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.insaneintherainmusicinsaneintheraininsaneintherain": {
+    "sounds": [
+        {
+            "name": "records/insaneintherainmusicinsaneintheraininsaneintherain",
+            "stream": true
+        }
+    ]
+}
+}
